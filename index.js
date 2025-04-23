@@ -18,7 +18,7 @@ async function connect() {
 
 async function execute() {
   if (typeof window.ethereum !== "undefined") {
-    contractAddress = "0x51e84f15055a6be404b6eb16be6bd7e6aea7e953";
+    contractAddress = "0x70a5464a4547974cC6Cf0d389EF2b6ad9eCcC790";
     const abi = [
       {
         inputs: [
